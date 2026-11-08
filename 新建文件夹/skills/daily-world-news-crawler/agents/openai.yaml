@@ -1,0 +1,6 @@
+interface:
+  display_name: "Daily World News"
+  short_description: "抓取当日全球新闻，输出 Markdown 日报"
+  default_prompt: "抓取今天的全球新闻，生成 Markdown 日报文件"
+policy:
+  allow_implicit_invocation: true
